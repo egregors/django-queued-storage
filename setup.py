@@ -36,7 +36,7 @@ setup(
         'six>=1.10.0',
         'django-celery>=3.1',
         'django-appconf >= 0.4',
-        'packaging==16.8',
+        'packaging==19.0',
     ],
     zip_safe=False,
 )
