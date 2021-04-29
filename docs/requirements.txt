@@ -1,4 +1,4 @@
 celery
 django-celery
 django-appconf
-django<2.3
+django<3.3
